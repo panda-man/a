@@ -13,7 +13,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>aiken transfer | HCS</title>
+    <title>aiken maker | HCS</title>
     <meta name="description" content="入力フォームからAkitenフォーマットのtxtファイル作成">
     <meta name="author" content="HCS">
     <meta name="viewport" content="width=device-width, initial-scale=1">
