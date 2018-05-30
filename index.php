@@ -48,24 +48,24 @@
                                    data-required-error="この欄は必須入力です！" required>
                         </div>
                         <div class="form-group">
-                            <label class="text-success" for="InputAnswer" class="">確認テスト問題<?= $i ?> 正答</label>
-                            <input type="text" name="answer_<?= $i ?>" id="answer" class="form-control"
-                                   placeholder="正答を入力して下さい。" data-required-error="この欄は必須入力です！" required>
+                            <label class="text-success" for="InputAnswer" class="">確認テスト問題<?= $i ?> 選択肢A</label>
+                            <input type="text" name="AnswerList_<?= $i ?>[]" id="answer" class="form-control"
+                                   placeholder="選択肢Aを入力して下さい。" data-required-error="この欄は必須入力です！" required>
                         </div>
                         <div class="form-group">
-                            <label class="text-danger" for="InputFileName">確認テスト問題<?= $i ?> 誤答1</label>
-                            <input type="text" name="wrongAnswerList_<?= $i ?>[]" id="wa1" class="form-control"
-                                   placeholder="誤答1を入力して下さい。" data-required-error="この欄は必須入力です！" required>
+                            <label class="text-danger" for="InputFileName">確認テスト問題<?= $i ?> 選択肢B</label>
+                            <input type="text" name="AnswerList_<?= $i ?>[]" id="wa1" class="form-control"
+                                   placeholder="選択肢Bを入力して下さい。" data-required-error="この欄は必須入力です！" required>
                         </div>
                         <div class="form-group">
-                            <label class="text-danger" for="InputFileName">確認テスト問題<?= $i ?> 誤答2</label>
-                            <input type="text" name="wrongAnswerList_<?= $i ?>[]" id="wa2" class="form-control"
-                                   placeholder="誤答2を入力して下さい。" data-required-error="この欄は必須入力です！" required>
+                            <label class="text-danger" for="InputFileName">確認テスト問題<?= $i ?> 選択肢C</label>
+                            <input type="text" name="AnswerList_<?= $i ?>[]" id="wa2" class="form-control"
+                                   placeholder="選択肢Cを入力して下さい。" data-required-error="この欄は必須入力です！" required>
                         </div>
                         <div class="form-group">
-                            <label class="text-danger" for="InputFileName">確認テスト問題<?= $i ?> 誤答3</label>
-                            <input type="text" name="wrongAnswerList_<?= $i ?>[]" id="wa3" class="form-control"
-                                   placeholder="誤答3を入力して下さい。" data-required-error="この欄は必須入力です！" required>
+                            <label class="text-danger" for="InputFileName">確認テスト問題<?= $i ?> 選択肢D</label>
+                            <input type="text" name="AnswerList_<?= $i ?>[]" id="wa3" class="form-control"
+                                   placeholder="選択肢Dを入力して下さい。" data-required-error="この欄は必須入力です！" required>
                         </div>
                     </div>
                 </div>

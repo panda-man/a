@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../akitenmaker/.idea/akitenmaker.iml" filepath="$PROJECT_DIR$/../akitenmaker/.idea/akitenmaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/akitenmarker.iml" filepath="$PROJECT_DIR$/.idea/akitenmarker.iml" />
     </modules>
   </component>
 </project>
