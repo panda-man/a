@@ -27,6 +27,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
+</head>
 <body>
 <div class="container">
     <div id="header">
@@ -49,23 +50,38 @@
                         </div>
                         <div class="form-group">
                             <label class="text-success" for="InputAnswer" class="">確認テスト問題<?= $i ?> 選択肢A</label>
-                            <input type="text" name="AnswerList_<?= $i ?>[]" id="answer" class="form-control"
+                            <input type="text" name="choices_<?= $i ?>[]" id="answer" class="form-control"
                                    placeholder="選択肢Aを入力して下さい。" data-required-error="この欄は必須入力です！" required>
                         </div>
                         <div class="form-group">
                             <label class="text-danger" for="InputFileName">確認テスト問題<?= $i ?> 選択肢B</label>
-                            <input type="text" name="AnswerList_<?= $i ?>[]" id="wa1" class="form-control"
+                            <input type="text" name="choices_<?= $i ?>[]" id="wa1" class="form-control"
                                    placeholder="選択肢Bを入力して下さい。" data-required-error="この欄は必須入力です！" required>
                         </div>
                         <div class="form-group">
                             <label class="text-danger" for="InputFileName">確認テスト問題<?= $i ?> 選択肢C</label>
-                            <input type="text" name="AnswerList_<?= $i ?>[]" id="wa2" class="form-control"
+                            <input type="text" name="choices_<?= $i ?>[]" id="wa2" class="form-control"
                                    placeholder="選択肢Cを入力して下さい。" data-required-error="この欄は必須入力です！" required>
                         </div>
                         <div class="form-group">
                             <label class="text-danger" for="InputFileName">確認テスト問題<?= $i ?> 選択肢D</label>
-                            <input type="text" name="AnswerList_<?= $i ?>[]" id="wa3" class="form-control"
+                            <input type="text" name="choices_<?= $i ?>[]" id="wa3" class="form-control"
                                    placeholder="選択肢Dを入力して下さい。" data-required-error="この欄は必須入力です！" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="text-info" for="InputFileName">確認テスト問題<?= $i ?> 正解の選択肢</label>
+                            <div class="radio">
+                                <label><input type="radio" name="answer_<?= $i ?>" id="answerA" value="A" checked=""> A</label>
+                            </div>
+                            <div class="radio">
+                                <label><input type="radio" name="answer_<?= $i ?>" id="answerB" value="B" >B</label>
+                            </div>
+                            <div class="radio">
+                                <label><input type="radio" name="answer_<?= $i ?>" id="answerC" value="C" >C</label>
+                            </div>
+                            <div class="radio">
+                                <label><input type="radio" name="answer_<?= $i ?>" id="answerD" value="D" >D</label>
+                            </div>
                         </div>
                     </div>
                 </div>
