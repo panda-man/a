@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: pamda-man
+ * User: panda-man
  * Date: 2018/05/30
  * Time: 10:13
  */
