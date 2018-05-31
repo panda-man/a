@@ -14,7 +14,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>aiken maker | HCS</title>
-    <meta name="description" content="入力フォームからAkitenフォーマットのtxtファイル作成">
+    <meta name="description" content="入力フォームからakitenフォーマットのtxtファイル作成">
     <meta name="author" content="HCS">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Latest compiled and minified CSS -->
@@ -40,7 +40,7 @@
                 <input type="text" class="form-control" name="file_name" id="InputKeyword" placeholder="ファイル名を入力してください"
                        data-required-error="この欄は必須入力です！" required>
             </div>
-            <?php for ($i = 1; $i <= 7; $i++) { ?>
+            <?php for ($i = 1; $i <= 5; $i++) { ?>
                 <div class="panel panel-default">
                     <div class="panel-heading linkPanelHeader">
                         <div class="form-group">

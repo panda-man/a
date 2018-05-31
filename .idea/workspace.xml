@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="157888e5-8246-43de-b19d-6e586fe76358" name="デフォルト" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/import_aiken.php" beforeDir="false" afterPath="$PROJECT_DIR$/import_aiken.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +23,8 @@
           <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="163">
-                  <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+                <state relative-caret-position="177">
+                  <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
                   <folding>
                     <element signature="e#6#91#0#PHP" expanded="true" />
                   </folding>
@@ -56,8 +57,8 @@
           <file leaf-file-name="import_aiken.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/import_aiken.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-332">
-                  <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+                <state relative-caret-position="255">
+                  <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
@@ -92,10 +93,10 @@
         <option value="$USER_HOME$/Desktop/import_aiken.php" />
         <option value="$PROJECT_DIR$/../akitenmaker/import_aiken.php" />
         <option value="$PROJECT_DIR$/../akitenmaker/index.php" />
-        <option value="$PROJECT_DIR$/import_aiken.php" />
-        <option value="$PROJECT_DIR$/import_aiken.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/import_aiken.php" />
+        <option value="$PROJECT_DIR$/import_aiken.php" />
       </list>
     </option>
   </component>
@@ -107,9 +108,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1917" />
+    <option name="x" value="106" />
     <option name="y" value="23" />
-    <option name="width" value="1928" />
+    <option name="width" value="1920" />
     <option name="height" value="1011" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -197,7 +198,7 @@
       <option name="presentableId" value="Default" />
       <updated>1527642761263</updated>
       <workItem from="1527642764734" duration="28721000" />
-      <workItem from="1527716131003" duration="2874000" />
+      <workItem from="1527716131003" duration="4718000" />
     </task>
     <task id="LOCAL-00001" summary="雛形">
       <created>1527680814520</created>
@@ -227,7 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527718856258</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="title 修正">
+      <created>1527719069845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527719069845</updated>
+    </task>
+    <task id="LOCAL-00006" summary="User 変更">
+      <created>1527719633360</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1527719633360</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -239,10 +254,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33336000" />
+    <option name="totallyTimeSpent" value="35180000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1917" y="23" width="1928" height="1011" extended-state="0" />
+    <frame x="106" y="23" width="1920" height="1011" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -250,14 +265,14 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32884398" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.17283951" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.26297578" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49832776" visible="true" weight="0.14899258" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49932158" visible="true" weight="0.14962727" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5005612" side_tool="true" weight="0.14899258" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24915825" />
-      <window_info id="Favorites" order="2" sideWeight="0.50167227" side_tool="true" visible="true" weight="0.14899258" />
+      <window_info id="Favorites" order="2" sideWeight="0.5006784" side_tool="true" visible="true" weight="0.14962727" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -302,7 +317,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="雛形" />
     <MESSAGE value="選択肢選べように変更" />
-    <option name="LAST_COMMIT_MESSAGE" value="選択肢選べように変更" />
+    <MESSAGE value="title 修正" />
+    <MESSAGE value="User 変更" />
+    <option name="LAST_COMMIT_MESSAGE" value="User 変更" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
@@ -354,20 +371,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/import_aiken.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="3">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/import_aiken.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-332">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="177">
+          <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
